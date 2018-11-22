@@ -5,3 +5,8 @@ This dataset collects information from 100k medical appointments in Brazil and i
 - ‘Neighborhood’ indicates the location of the hospital.
 - ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 - Last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+
+
+### Data Source
+
+The data can be found in the 'noshowappointments_may_2016.csv' file.
